@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+ }
+ body{
+    background-color: #167397;
+    margin: auto;
+}
+ p{ 
+    color: black    ;
+    font-family: roboto;
+}
+#form{
+    margin: auto;
+    text-align: center;
+}
+input{
+    border-radius: 6px;
+}
+input.add{
+    color: white;
+    background-color: rgb(9, 105, 49);
+}
+input.show{
+    color: white;
+    background-color: rgb(67, 9, 105);
+}
